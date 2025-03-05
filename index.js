@@ -74,7 +74,7 @@ async function generateFlirtyResponse(username, message) {
     });
     const data = await response.json();
 
-    // Handle both array and direct response formats
+    // Handle both array and direct response formats together
     const generatedText = Array.isArray(data) ? data[0]?.generated_text : data.generated_text;
 
     if (generatedText) {
