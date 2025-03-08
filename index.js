@@ -41,6 +41,7 @@ const starterFlirts = [
   "You must be JavaScript because you make my world dynamic! 💫",
   "If you were a function, you'd be called beautiful()! 🌟",
   "You've got me stuck in an infinite loop of admiration! 💞"
+  "Are you a sipper ? Cause I wanna suck through you"
 ];
 
 const sadWords = ["sad", "depressed", "unhappy", "angry", "miserable"];
